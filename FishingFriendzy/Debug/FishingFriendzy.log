@@ -1,0 +1,8 @@
+﻿  FishingFriendzy.cpp
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(81,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(89,35): warning C4267: 'return': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(197,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(211,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(225,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\FishingFriendzy\FishingFriendzy.cpp(239,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FishingFriendzy.vcxproj -> C:\Users\Lance\Desktop\School\C++\Final\FishingFriendzy\Debug\FishingFriendzy.exe
